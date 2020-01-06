@@ -22,3 +22,10 @@ D:\Exam\VsProject\Result\Result\Y_Utils\obj\Debug\Y_Utils.csproj.CopyComplete
 D:\Exam\VsProject\Result\Result\Y_Utils\obj\Debug\Y_Utils.dll
 D:\Exam\VsProject\Result\Result\Y_Utils\obj\Debug\Y_Utils.pdb
 D:\Exam\VsProject\Result\Result\Y_Utils\obj\Debug\Y_Utils.csprojAssemblyReference.cache
+D:\Exam\VsProject\uao_result\CSharpResult\Y_Utils\bin\Debug\Y_Utils.dll
+D:\Exam\VsProject\uao_result\CSharpResult\Y_Utils\bin\Debug\Y_Utils.pdb
+D:\Exam\VsProject\uao_result\CSharpResult\Y_Utils\bin\Debug\IP2Region.dll
+D:\Exam\VsProject\uao_result\CSharpResult\Y_Utils\obj\Debug\Y_Utils.csproj.CoreCompileInputs.cache
+D:\Exam\VsProject\uao_result\CSharpResult\Y_Utils\obj\Debug\Y_Utils.csproj.CopyComplete
+D:\Exam\VsProject\uao_result\CSharpResult\Y_Utils\obj\Debug\Y_Utils.dll
+D:\Exam\VsProject\uao_result\CSharpResult\Y_Utils\obj\Debug\Y_Utils.pdb

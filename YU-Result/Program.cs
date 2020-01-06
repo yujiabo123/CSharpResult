@@ -11,10 +11,9 @@ namespace YU_Result
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Y_Utils.U_IP.GetInstance().GetRegionAsync("61.244.148.166", ConfigurationManager.AppSettings.Get("PathIp2region")).Result);
-            Console.WriteLine(Y_Utils.U_IP.GetInstance().GetRegionAsync("192.168.1.140", ConfigurationManager.AppSettings.Get("PathIp2region")).Result);
-
-            //Y_Utils.U_Time();
+            //Console.WriteLine(Y_Utils.U_IP.GetInstance().GetRegionAsync("61.244.148.166").Result);
+            //Console.WriteLine(Y_Utils.U_IP.GetInstance().GetRegionAsync("192.168.1.140").Result);
+            Console.WriteLine(Y_Utils.U_Time.TransitionToDateTime("1574748101736"));
 
             Console.ReadLine();
         }

@@ -21,7 +21,7 @@ namespace Y_Utils
         {
             if (_dbSearcher == null)
             {
-                _dbSearcher = new DbSearcher("ip2region.db");
+                _dbSearcher = new DbSearcher(Environment.CurrentDirectory+"/../../IP2REGION/ip2region.db");
             }
         }
         public static U_IP GetInstance()

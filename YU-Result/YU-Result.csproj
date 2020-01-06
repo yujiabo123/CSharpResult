@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="IP2REGION\ip2region.db" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Y_DAL\Y_DAL.csproj">
@@ -61,5 +62,6 @@
       <Name>Y_Utils</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
