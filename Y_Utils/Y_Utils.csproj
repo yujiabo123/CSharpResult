@@ -47,6 +47,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TimeExtension.cs" />
+    <Compile Include="U_Encrypt.cs" />
     <Compile Include="U_Expression.cs" />
     <Compile Include="U_IP.cs" />
     <Compile Include="U_Time.cs" />
