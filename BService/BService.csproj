@@ -52,12 +52,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BaseService.cs" />
+    <Compile Include="LoginService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserInfoService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BIService\BIService.csproj">
       <Project>{29a96f8c-bf25-4bce-aad8-bed1d1186ad8}</Project>
       <Name>BIService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Y_DAL\Y_DAL.csproj">
+      <Project>{7baf3271-2bdf-4080-8d62-c279d5d86b0b}</Project>
+      <Name>Y_DAL</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

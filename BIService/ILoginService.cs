@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace BIService
 {
-    class ILoginService
+    public interface ILoginService : IBaseService
     {
+        //string LoginByAccount(string account, string password);
+        //string LoginByPhone(string phone, string vertifycode);
+        //string LoginByQQ();
+        //string LoginByWeChat();
+        //string LoginByEmail();
+        //void Logout(); 
+
+        
     }
 }

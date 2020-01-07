@@ -11,6 +11,14 @@ D:\Exam\VsProject\Result\Result\Y_DAL\obj\Debug\Y_DAL.dll
 D:\Exam\VsProject\Result\Result\Y_DAL\obj\Debug\Y_DAL.pdb
 D:\Exam\VsProject\uao_result\CSharpResult\Y_DAL\bin\Debug\Y_DAL.dll
 D:\Exam\VsProject\uao_result\CSharpResult\Y_DAL\bin\Debug\Y_DAL.pdb
-D:\Exam\VsProject\uao_result\CSharpResult\Y_DAL\obj\Debug\Y_DAL.csproj.CoreCompileInputs.cache
 D:\Exam\VsProject\uao_result\CSharpResult\Y_DAL\obj\Debug\Y_DAL.dll
 D:\Exam\VsProject\uao_result\CSharpResult\Y_DAL\obj\Debug\Y_DAL.pdb
+D:\Exam\VsProject\uao_result\CSharpResult\Y_DAL\bin\Debug\Y_DAL.dll.config
+D:\Exam\VsProject\uao_result\CSharpResult\Y_DAL\bin\Debug\EntityFramework.dll
+D:\Exam\VsProject\uao_result\CSharpResult\Y_DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Exam\VsProject\uao_result\CSharpResult\Y_DAL\bin\Debug\EntityFramework.xml
+D:\Exam\VsProject\uao_result\CSharpResult\Y_DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Exam\VsProject\uao_result\CSharpResult\Y_DAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\Exam\VsProject\uao_result\CSharpResult\Y_DAL\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\Exam\VsProject\uao_result\CSharpResult\Y_DAL\obj\Debug\Y_DAL.csprojAssemblyReference.cache
+D:\Exam\VsProject\uao_result\CSharpResult\Y_DAL\obj\Debug\Y_DAL.csproj.CopyComplete

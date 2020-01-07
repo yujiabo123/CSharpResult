@@ -10,7 +10,8 @@ namespace BIService
     {
         #region Query
         /// <summary>
-        /// 根据id查询实体
+        /// 根据id查询实体 
+        /// id为主键
         /// </summary>
         /// <param name="id"></param>
         /// <returns></returns>
