@@ -1,9 +1,11 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Configuration;
 using System.Data.Entity;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using Y_DAL;
 using Y_Utils;
@@ -21,14 +23,21 @@ namespace YU_Result
             Console.WriteLine("*****************************");
 
             #region AES 加密解密测试
-            string key = "12345678876543211234567887654abc";
-            string val = "我是ALEX";
-            Console.WriteLine(val);
-            string encryptAes = U_Encrypt.AesEncrypt(val,key);
-            Console.WriteLine(encryptAes);
-            string decryptAes = U_Encrypt.AesDecrypt(encryptAes, key);
-            Console.WriteLine(decryptAes);
+            //string key = "12345678876543211234567887654abc";
+            //string val = "我是ALEX";
+            //Console.WriteLine(val);
+            //string encryptAes = U_Encrypt.AesEncrypt(val,key);
+            //Console.WriteLine(encryptAes);
+            //string decryptAes = U_Encrypt.AesDecrypt(encryptAes, key);
+            //Console.WriteLine(decryptAes);
             #endregion
+            Console.WriteLine(Guid.NewGuid());
+
+            //foreach (int i in Power(2, 8))
+            //{
+            //    Console.Write("{0} ", i);
+            //}
+
 
             #region 数据库访问层测试
             //DbContext context = new Y_DAL.ApplicationDbContext();
@@ -55,5 +64,18 @@ namespace YU_Result
 
             Console.ReadLine();
         }
+
+        public static IEnumerable Power(int number, int exponent)
+        {
+            int counter = 0;
+            int result = 1;
+            while (counter++ < exponent)
+            {
+                result = result * number;
+                Thread.Sleep(2000);
+                yield return result;
+            }
+        }
+
     }
 }
